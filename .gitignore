@@ -219,3 +219,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+$env
+module-1/studio/.langgraph_api/.langgraph_checkpoint.1.pckl
+module-1/studio/.langgraph_api/.langgraph_checkpoint.2.pckl
+module-1/studio/.langgraph_api/.langgraph_ops.pckl
+module-1/studio/.langgraph_api/.langgraph_retry_counter.pckl
+module-1/studio/.langgraph_api/store.pckl
+module-1/studio/.langgraph_api/store.vectors.pckl
